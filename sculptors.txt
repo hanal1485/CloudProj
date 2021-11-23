@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+ <meta charset="UTF-8" />
+ <meta name="description" content="everything about painting ana sculpting" />
+ <meta name="keywords" content="art, sculpting" />
+ <meta name="author" content="R.Hana" />
+ <title>
+ art people
+ </title>
+</head>
+<body bgcolor="#EAEFF9">
+<table border="1" width="100%" bordercolorlight="#48AA81" bordercolordark="#48AA81" bgcolor="#48AA81">
+	<tr>
+		<td><span style="letter-spacing: -1px; ">
+<font face="Lucida Calligraphy"><strong><em><a href="art_people.html" style="color:white">ART People</a></em></strong></font></span></td>
+	</tr>
+</table>
+
+
+<h1 align="center"><em style="font-style: normal"><strong>
+<span style="letter-spacing: -1px"><font face="Andalus" color="#FF6666">
+Sculptors</font></span></strong></em></h1>
+<p align="center">&nbsp;</p>
+<p align="left">&nbsp;&nbsp; <font size="4">&nbsp;Sculpture is three dimensional art which was originally created 
+by carving and modeling materials such as stone, metal, ceramics and wood. 
+However, since the rise of Modernism in late 19th century, artists have used a 
+wide variety of processes and materials to create sculptures.</font></p>
+<p align="left"><font size="4">Here you find a list of the 3 greatest sculptors of all time:</font></p>
+<ul>
+	<li>
+	<p align="left"><font size="4"><a href="#sculptor1">Michelangelo</a></font></li>
+	<li>
+	<p align="left"><font size="4"><a href="#sculptor2">Auguste Rodin</a></font></li>
+	<li>
+	<p align="left"><font size="4"><a href="#sculptor3">Gian Lorenzo Bernini</a></font></li>
+</ul>
+<p align="left">&nbsp;</p>
+<hr color="#48AA81" size="4" width="75%">
+<p align="left">&nbsp;</p>
+<h2 align="left"><u><font color="#FF6666"><a id="sculptor1">Michelangelo</a></font></u></h2>
+<p align="center">
+<b><font size="4">
+<img border="0" src="file:///C:/Users/lenovo/OneDrive/Documents/LCS%202/Michelangelo.jpg" width="225" height="350" align="left" hspace="30" vspace="5"></font></b></p>
+<p align="left"><font size="4"><b>Lifespan:</b> March 6, 1475 – February 18, 
+1564</font></p>
+<p align="left"><font size="4">&nbsp;&nbsp;&nbsp; Michelangelo di Lodovico 
+Buonarroti Simoni known simply as Michelangelo, was an Italian sculptor, 
+painter, architect and poet of the High Renaissance born in the Republic of 
+Florence, who exerted an unparalleled influence on the development of Western 
+art. His artistic versatility was of such a high order that he is often 
+considered a contender for the title of the archetypal Renaissance man. Several 
+scholars have described Michelangelo as the greatest artist of his age and even 
+as the greatest artist of all time.</font></p>
+<p align="left"><font size="4">&nbsp;&nbsp;&nbsp; A number of Michelangelo's 
+works of painting, sculpture and architecture rank among the most famous in 
+existence. His output in these fields was prodigious; given the sheer volume of 
+surviving correspondence, sketches and reminiscences, he is the best-documented 
+artist of the 16th century. He sculpted two of his best-known works, the Pietà 
+and David, before the age of thirty. Despite holding a low opinion of painting, 
+he also created two of the most influential frescoes in the history of Western 
+art: the scenes from Genesis on the ceiling of the Sistine Chapel in Rome, and 
+The Last Judgment on its altar wall. His design of the Laurentian Library 
+pioneered Mannerist architecture. At the age of 74, he succeeded Antonio da 
+Sangallo the Younger as the architect of St. Peter's Basilica. He transformed 
+the plan so that the western end was finished to his design, as was the dome, 
+with some modification, after his death.</font></p>
+<p align="left"><font size="4">&nbsp;&nbsp;&nbsp; Michelangelo was the first 
+Western artist whose biography was published while he was alive. In fact, two 
+biographies were published during his lifetime. One of them, by Giorgio Vasari, 
+proposed that Michelangelo's work transcended that of any artist living or dead, 
+and was &quot;supreme in not one art alone but in all three&quot;.<br>
+<br>
+&nbsp;&nbsp;&nbsp; In his lifetime, Michelangelo was often called Il Divino 
+(&quot;the divine one&quot;). His contemporaries often admired his terribilità—his ability 
+to instil a sense of awe. Attempts by subsequent artists to imitate 
+Michelangelo's impassioned, highly personal style resulted in Mannerism, the 
+next major movement in Western art after the High Renaissance.</font></p>
+<p align="left"><font size="4"><b>Masterpiece:</b> David (1504)</font></p>
+<p align="center">
+<img border="0" src="file:///C:/Users/lenovo/OneDrive/Documents/LCS%202/David-1504-Michelangelo.jpg" width="400" height="706"></p>
+<p align="center">&nbsp;</p><hr color="#48AA81" size="4" width="75%">
+<p align="center">&nbsp;</p>
+
+<h2 align="left"><u><font color="#FF6666"><a id="sculptor2">Auguste Rodin</a></font></u></h2>
+<p align="left"><b><font size="4">
+<img border="0" src="file:///C:/Users/lenovo/OneDrive/Documents/LCS%202/Auguste-Rodin.jpg" width="225" height="350" align="left" hspace="30" vspace="5"></font></b></p>
+<p align="left"><font size="4"><b>Lifespan:</b> November 12, 1840 – November 17, 
+1917</font></p>
+<p align="left"><font size="4">&nbsp;&nbsp;&nbsp; François Auguste René Rodin 
+was a French sculptor generally considered the founder of modern sculpture. He 
+was schooled traditionally and took a craftsman-like approach to his work. Rodin 
+possessed a unique ability to model a complex, turbulent, and deeply pocketed 
+surface in clay. He is known for such sculptures as The Thinker, Monument to 
+Balzac, The Kiss, The Burghers of Calais, and The Gates of Hell.<br>
+<br>
+&nbsp;&nbsp;&nbsp; Many of Rodin's most notable sculptures were criticized as 
+they clashed with predominant figurative sculpture traditions in which works 
+were decorative, formulaic, or highly thematic. Rodin's most original work 
+departed from traditional themes of mythology and allegory. He modeled the human 
+body with naturalism, and his sculptures celebrate individual character and 
+physicality. Although Rodin was sensitive to the controversy surrounding his 
+work, he refused to change his style, and his continued output brought 
+increasing favor from the government and the artistic community.</font></p>
+<p align="left"><font size="4">&nbsp;&nbsp;&nbsp; From the unexpected naturalism 
+of Rodin's first major figure – inspired by his 1875 trip to Italy – to the 
+unconventional memorials whose commissions he later sought, his reputation grew, 
+and Rodin became the preeminent French sculptor of his time. By 1900, he was a 
+world-renowned artist. Wealthy private clients sought Rodin's work after his 
+World's Fair exhibit, and he kept company with a variety of high-profile 
+intellectuals and artists. His student, Camille Claudel, became his associate, 
+lover, and creative rival. Rodin's other students included Antoine Bourdelle, 
+Constantin Brâncu&#537;i, and Charles Despiau. He married his lifelong companion, 
+Rose Beuret, in the last year of both their lives. His sculptures suffered a 
+decline in popularity after his death in 1917, but within a few decades his 
+legacy solidified. Rodin remains one of the few sculptors widely known outside 
+the visual arts community.</font></p>
+<p align="left"><font size="4"><b>Masterpiece:</b> The Thinker (1902)</font></p>
+<p align="center">
+<img border="0" src="file:///C:/Users/lenovo/OneDrive/Documents/LCS%202/The-Thinker-1902-Auguste-Rodin.jpg" width="400" height="532"></p>
+<p align="center">&nbsp;</p><hr color="#48AA81" size="4" width="75%">
+<p align="center">&nbsp;</p>
+
+<h2 align="left"><font color="#FF6666"><u><a id="sculptor3">Gian Lorenzo Bernini</a></u></font></h2>
+<p align="left"><b><font size="4">
+<img border="0" src="file:///C:/Users/lenovo/OneDrive/Documents/LCS%202/Gian-Lorenzo-Bernini.jpg" width="225" height="350" align="left" hspace="30" vspace="5"></font></b></p>
+<p align="left"><b><font size="4">Lifespan:</font></b><font size="4"> December 
+7, 1598 – November 28, 1680</font></p>
+<p align="left"><font size="4">&nbsp;&nbsp;&nbsp; Gian Lorenzo (or Gianlorenzo) 
+Bernini was an Italian sculptor and architect. While a major figure in the world 
+of architecture, he was more prominently the leading sculptor of his age, 
+credited with creating the Baroque style of sculpture. As one scholar has 
+commented, &quot;What Shakespeare is to drama, Bernini may be to sculpture: the first 
+pan-European sculptor whose name is instantaneously identifiable with a 
+particular manner and vision, and whose influence was inordinately powerful....&quot; 
+In addition, he was a painter (mostly small canvases in oil) and a man of the 
+theater: he wrote, directed and acted in plays (mostly Carnival satires), for 
+which he designed stage sets and theatrical machinery. He produced designs as 
+well for a wide variety of decorative art objects including lamps, tables, 
+mirrors, and even coaches.<br>
+<br>
+&nbsp;&nbsp;&nbsp; As an architect and city planner, he designed secular 
+buildings, churches, chapels, and public squares, as well as massive works 
+combining both architecture and sculpture, especially elaborate public fountains 
+and funerary monuments and a whole series of temporary structures (in stucco and 
+wood) for funerals and festivals. His broad technical versatility, boundless 
+compositional inventiveness and sheer skill in manipulating marble ensured that 
+he would be considered a worthy successor of Michelangelo, far outshining other 
+sculptors of his generation. His talent extended beyond the confines of 
+sculpture to a consideration of the setting in which it would be situated; his 
+ability to synthesize sculpture, painting, and architecture into a coherent 
+conceptual and visual whole has been termed by the late art historian Irving 
+Lavin the &quot;unity of the visual arts&quot;.</font></p>
+<p align="left"><font size="4"><b>Masterpiece:</b> Ecstasy of Saint Teresa 
+(1652)</font></p>
+
+
+<p align="center">
+<img border="0" src="file:///C:/Users/lenovo/OneDrive/Documents/LCS%202/Ecstasy-of-Saint-Teresa-1652-Gian-Lorenzo-Bernini.jpg" width="400" height="577" alt="Ecstasy-of-Saint-Teresa-1652"></p>
+
+
+</body>
+
+</html>
